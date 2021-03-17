@@ -45,7 +45,7 @@ def convolution(image, h, w):
 path = r'internetgrafi-prom-750x430 - Copy.png'
 img = cv2.imread(path) 
 image = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-print ("Ingresa el tamaño de la vecindad: ")
-h = int(input("h: "))
-w = int(input("w: "))
+print ("Ingresa el tamano de la vecindad: ")
+h = int(input("renglones: "))
+w = int(input("columnas: "))
 convolution(image, h, w)
