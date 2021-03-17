@@ -1,3 +1,9 @@
+#Referencias
+#By Abhisek Jana
+#https://github.com/adeveloperdiary/blog/tree/master/Computer_Vision/Sobel_Edge_Detection
+#http://www.adeveloperdiary.com/data-science/computer-vision/how-to-implement-sobel-edge-detection-using-python-from-scratch/
+#Modified by Benjamin Valdes
+
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
@@ -36,7 +42,7 @@ def convolution(image, h, w):
  
     return output
 
-path = r'C:\Users\luisa\Downloads\internetgrafi-prom-750x430 - Copy.png'
+path = r'internetgrafi-prom-750x430 - Copy.png'
 img = cv2.imread(path) 
 image = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 print ("Ingresa el tamaño de la vecindad: ")
