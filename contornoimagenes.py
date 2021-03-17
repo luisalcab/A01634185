@@ -3,7 +3,7 @@ import cv2
 import matplotlib.pyplot as plt
 
 #Ingrese el path de la imagen que quiere procesar
-path = r'C:\Users\luisa\Downloads\internetgrafi-prom-750x430 - Copy.png'
+path = r'internetgrafi-prom-750x430 - Copy.png'
 img = cv2.imread(path) 
 
 image = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
