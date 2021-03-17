@@ -41,10 +41,9 @@ def convolution(image, kernel):
  
     return output
 
-path = r'C:\Users\luisa\Downloads\internetgrafi-prom-750x430 - Copy.png'
+path = r'internetgrafi-prom-750x430 - Copy.png'
 img = cv2.imread(path) 
 mtz = [[1,1,1], [1,1,1], [1,1,1]]
 kernel = np.array(mtz)
-print(kernel)
 image = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 convolution(image, kernel)
