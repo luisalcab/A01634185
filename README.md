@@ -21,6 +21,9 @@ o en algunos casos:
 pip install -r requirements.txt
 ```
 
+*Para realizar con exito el paso anterior, con antelacion se debe instalar el programa pip de Python:*
+
+-https://pip.pypa.io/en/stable/installing/
 
 ## Uso
 
