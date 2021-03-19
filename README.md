@@ -24,37 +24,42 @@ pip install -r requirements.txt
 
 ## Uso
 
-Para correr el script Pytagram.py asegurarse de estar en el directorio del proyecto y ejecutar el siguiente codigo en la terminal:
+Para correr el script Actividad1.py asegurarse de estar en el directorio del proyecto y ejecutar el siguiente codigo en la terminal:
 
 ```shell
-python3 Pytagram.py
+python3 Actividad1.py
 ```
 o en algunos casos:
 
 ```shell
-python Pytagram.py
+python Actividad1.py
 ```
 
-Para correr el script Pytagram 2.py asegurarse de estar en el directorio del proyecto y ejecutar el siguiente codigo en la terminal:
+Para correr el script Actividad2.py asegurarse de estar en el directorio del proyecto y ejecutar el siguiente codigo en la terminal:
 
 ```shell
-python3 'Pytagram 2.py'
+python3 'Actividad2.py'
 ```
 o en algunos casos:
 
 ```shell
-python 'Pytagram 2.py'
+python 'Actividad2.py'
 ```
 
-Para terminar la ejecución del script hacer click en el video y presionar la tecla ESC
+Para correr el script Actividad2_v2.py asegurarse de estar en el directorio del proyecto y ejecutar el siguiente codigo en la terminal:
 
-## Ejemplo
+```shell
+python3 'Actividad2_v2.py'
+```
+o en algunos casos:
 
-![ejemplo](assets/ejemplo.jpg)
+```shell
+python 'Actividad2_v2.py'
+```
 
----
+Para terminar la ejecución del script dar click en la cruz de la ventana emergente.
 
 ### Referencias
 
-- [🤴 Creando Filtros como los de Instagram | OpenCV Python](https://github.com/GabySol/OmesTutorials2020/tree/master/19%20FILTRO_gorro_tiara_2021)
+
  
