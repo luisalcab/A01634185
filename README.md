@@ -5,7 +5,7 @@ En este repositorio se encuentran los programas de python de la Actividad 1 y Ac
 
 ## Requisitos 
 
-Para correr los scripts (Actividad1.py y Actividad2.py) se requiere Python 3 e instalar las dependencias que se encuentran en **requirements.txt**
+Para correr los scripts (Actividad1.py, Actividad2.py y Actividad2_v2.py) se requiere Python 3 e instalar las dependencias que se encuentran en **requirements.txt**
 
 ## Instalación
 
