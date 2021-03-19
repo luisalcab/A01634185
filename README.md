@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 *Para realizar con exito el paso anterior, con antelacion se debe instalar el programa pip de Python:*
 
--https://pip.pypa.io/en/stable/installing/
+- https://pip.pypa.io/en/stable/installing/
 
 ## Uso
 
@@ -64,5 +64,7 @@ Para terminar la ejecución del script dar click en la cruz de la ventana emerge
 
 ### Referencias
 
+- https://github.com/adeveloperdiary/blog/tree/master/Computer_Vision/Sobel_Edge_Detection
 
- 
+- http://www.adeveloperdiary.com/data-science/computer-vision/how-to-implement-sobel-edge-detection-using-python-from-scratch/
+
